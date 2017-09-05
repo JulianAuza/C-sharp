@@ -1,0 +1,10 @@
+/Users/julienstark/Desktop/DevLearning/csharp/fundamentalsI/bin/Debug/netcoreapp2.0/fundamentalsI.deps.json
+/Users/julienstark/Desktop/DevLearning/csharp/fundamentalsI/bin/Debug/netcoreapp2.0/fundamentalsI.runtimeconfig.json
+/Users/julienstark/Desktop/DevLearning/csharp/fundamentalsI/bin/Debug/netcoreapp2.0/fundamentalsI.runtimeconfig.dev.json
+/Users/julienstark/Desktop/DevLearning/csharp/fundamentalsI/bin/Debug/netcoreapp2.0/fundamentalsI.dll
+/Users/julienstark/Desktop/DevLearning/csharp/fundamentalsI/bin/Debug/netcoreapp2.0/fundamentalsI.pdb
+/Users/julienstark/Desktop/DevLearning/csharp/fundamentalsI/obj/Debug/netcoreapp2.0/fundamentalsI.csproj.CoreCompileInputs.cache
+/Users/julienstark/Desktop/DevLearning/csharp/fundamentalsI/obj/Debug/netcoreapp2.0/fundamentalsI.AssemblyInfoInputs.cache
+/Users/julienstark/Desktop/DevLearning/csharp/fundamentalsI/obj/Debug/netcoreapp2.0/fundamentalsI.AssemblyInfo.cs
+/Users/julienstark/Desktop/DevLearning/csharp/fundamentalsI/obj/Debug/netcoreapp2.0/fundamentalsI.dll
+/Users/julienstark/Desktop/DevLearning/csharp/fundamentalsI/obj/Debug/netcoreapp2.0/fundamentalsI.pdb
