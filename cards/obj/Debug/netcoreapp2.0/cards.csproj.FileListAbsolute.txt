@@ -1,0 +1,10 @@
+/Users/julienstark/Desktop/DevLearning/csharp/cards/bin/Debug/netcoreapp2.0/cards.deps.json
+/Users/julienstark/Desktop/DevLearning/csharp/cards/bin/Debug/netcoreapp2.0/cards.runtimeconfig.json
+/Users/julienstark/Desktop/DevLearning/csharp/cards/bin/Debug/netcoreapp2.0/cards.runtimeconfig.dev.json
+/Users/julienstark/Desktop/DevLearning/csharp/cards/bin/Debug/netcoreapp2.0/cards.dll
+/Users/julienstark/Desktop/DevLearning/csharp/cards/bin/Debug/netcoreapp2.0/cards.pdb
+/Users/julienstark/Desktop/DevLearning/csharp/cards/obj/Debug/netcoreapp2.0/cards.csproj.CoreCompileInputs.cache
+/Users/julienstark/Desktop/DevLearning/csharp/cards/obj/Debug/netcoreapp2.0/cards.AssemblyInfoInputs.cache
+/Users/julienstark/Desktop/DevLearning/csharp/cards/obj/Debug/netcoreapp2.0/cards.AssemblyInfo.cs
+/Users/julienstark/Desktop/DevLearning/csharp/cards/obj/Debug/netcoreapp2.0/cards.dll
+/Users/julienstark/Desktop/DevLearning/csharp/cards/obj/Debug/netcoreapp2.0/cards.pdb
