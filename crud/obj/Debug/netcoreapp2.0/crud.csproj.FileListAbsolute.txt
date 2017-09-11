@@ -1,0 +1,10 @@
+/Users/julienstark/Desktop/DevLearning/csharp/crud/bin/Debug/netcoreapp2.0/crud.deps.json
+/Users/julienstark/Desktop/DevLearning/csharp/crud/bin/Debug/netcoreapp2.0/crud.runtimeconfig.json
+/Users/julienstark/Desktop/DevLearning/csharp/crud/bin/Debug/netcoreapp2.0/crud.runtimeconfig.dev.json
+/Users/julienstark/Desktop/DevLearning/csharp/crud/bin/Debug/netcoreapp2.0/crud.dll
+/Users/julienstark/Desktop/DevLearning/csharp/crud/bin/Debug/netcoreapp2.0/crud.pdb
+/Users/julienstark/Desktop/DevLearning/csharp/crud/obj/Debug/netcoreapp2.0/crud.csproj.CoreCompileInputs.cache
+/Users/julienstark/Desktop/DevLearning/csharp/crud/obj/Debug/netcoreapp2.0/crud.AssemblyInfoInputs.cache
+/Users/julienstark/Desktop/DevLearning/csharp/crud/obj/Debug/netcoreapp2.0/crud.AssemblyInfo.cs
+/Users/julienstark/Desktop/DevLearning/csharp/crud/obj/Debug/netcoreapp2.0/crud.dll
+/Users/julienstark/Desktop/DevLearning/csharp/crud/obj/Debug/netcoreapp2.0/crud.pdb

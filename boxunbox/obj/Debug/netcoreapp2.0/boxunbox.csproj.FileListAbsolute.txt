@@ -1,0 +1,10 @@
+/Users/julienstark/Desktop/DevLearning/csharp/boxunbox/bin/Debug/netcoreapp2.0/boxunbox.deps.json
+/Users/julienstark/Desktop/DevLearning/csharp/boxunbox/bin/Debug/netcoreapp2.0/boxunbox.runtimeconfig.json
+/Users/julienstark/Desktop/DevLearning/csharp/boxunbox/bin/Debug/netcoreapp2.0/boxunbox.runtimeconfig.dev.json
+/Users/julienstark/Desktop/DevLearning/csharp/boxunbox/bin/Debug/netcoreapp2.0/boxunbox.dll
+/Users/julienstark/Desktop/DevLearning/csharp/boxunbox/bin/Debug/netcoreapp2.0/boxunbox.pdb
+/Users/julienstark/Desktop/DevLearning/csharp/boxunbox/obj/Debug/netcoreapp2.0/boxunbox.csproj.CoreCompileInputs.cache
+/Users/julienstark/Desktop/DevLearning/csharp/boxunbox/obj/Debug/netcoreapp2.0/boxunbox.AssemblyInfoInputs.cache
+/Users/julienstark/Desktop/DevLearning/csharp/boxunbox/obj/Debug/netcoreapp2.0/boxunbox.AssemblyInfo.cs
+/Users/julienstark/Desktop/DevLearning/csharp/boxunbox/obj/Debug/netcoreapp2.0/boxunbox.dll
+/Users/julienstark/Desktop/DevLearning/csharp/boxunbox/obj/Debug/netcoreapp2.0/boxunbox.pdb

@@ -1,0 +1,10 @@
+/Users/julienstark/Desktop/DevLearning/csharp/collectionsprac/bin/Debug/netcoreapp2.0/collectionsprac.deps.json
+/Users/julienstark/Desktop/DevLearning/csharp/collectionsprac/bin/Debug/netcoreapp2.0/collectionsprac.runtimeconfig.json
+/Users/julienstark/Desktop/DevLearning/csharp/collectionsprac/bin/Debug/netcoreapp2.0/collectionsprac.runtimeconfig.dev.json
+/Users/julienstark/Desktop/DevLearning/csharp/collectionsprac/bin/Debug/netcoreapp2.0/collectionsprac.dll
+/Users/julienstark/Desktop/DevLearning/csharp/collectionsprac/bin/Debug/netcoreapp2.0/collectionsprac.pdb
+/Users/julienstark/Desktop/DevLearning/csharp/collectionsprac/obj/Debug/netcoreapp2.0/collectionsprac.csproj.CoreCompileInputs.cache
+/Users/julienstark/Desktop/DevLearning/csharp/collectionsprac/obj/Debug/netcoreapp2.0/collectionsprac.AssemblyInfoInputs.cache
+/Users/julienstark/Desktop/DevLearning/csharp/collectionsprac/obj/Debug/netcoreapp2.0/collectionsprac.AssemblyInfo.cs
+/Users/julienstark/Desktop/DevLearning/csharp/collectionsprac/obj/Debug/netcoreapp2.0/collectionsprac.dll
+/Users/julienstark/Desktop/DevLearning/csharp/collectionsprac/obj/Debug/netcoreapp2.0/collectionsprac.pdb

@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Hello!</title>
+        <link rel="stylesheet" href="~/CSS/style.css"/>
+    </head>
+    <body>
+        <a href="/home"> Home</a>
+        <a href="/projects"> Projects </a>
+        <a href="/contact"> Contact </a>
+        <h1>Home</h1>
+        @{
+            DateTime CurrentTime = DateTime.Now;
+
+            <h3>@CurrentTime.ToString("MMM d, yyyy")</h3>
+            <h3>@CurrentTime.ToString("h:mm tt")</h3>
+        }
+    </body>
+    <h2>About me</h2>
+    <img src="/IMG/me.jpg" style="width:200px;">
+    <p style="width:300px;">In West Philadelphia, born and raised
+On the playground is where I spent most of my days
+Chillin' out, maxin', relaxin' all cool
+And all shootin' some b-ball outside of the school
+When a couple of guys who were up to no good
+Started makin' trouble in my neighborhood
+I got in one little fight and my mom got scared
+And said "You're movin' with your auntie and uncle in Bel-Air"</p>
+
+</html>

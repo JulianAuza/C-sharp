@@ -1,0 +1,10 @@
+/Users/julienstark/Desktop/DevLearning/csharp/callingCard/bin/Debug/netcoreapp2.0/callingCard.deps.json
+/Users/julienstark/Desktop/DevLearning/csharp/callingCard/bin/Debug/netcoreapp2.0/callingCard.runtimeconfig.json
+/Users/julienstark/Desktop/DevLearning/csharp/callingCard/bin/Debug/netcoreapp2.0/callingCard.runtimeconfig.dev.json
+/Users/julienstark/Desktop/DevLearning/csharp/callingCard/bin/Debug/netcoreapp2.0/callingCard.dll
+/Users/julienstark/Desktop/DevLearning/csharp/callingCard/bin/Debug/netcoreapp2.0/callingCard.pdb
+/Users/julienstark/Desktop/DevLearning/csharp/callingCard/obj/Debug/netcoreapp2.0/callingCard.csproj.CoreCompileInputs.cache
+/Users/julienstark/Desktop/DevLearning/csharp/callingCard/obj/Debug/netcoreapp2.0/callingCard.AssemblyInfoInputs.cache
+/Users/julienstark/Desktop/DevLearning/csharp/callingCard/obj/Debug/netcoreapp2.0/callingCard.AssemblyInfo.cs
+/Users/julienstark/Desktop/DevLearning/csharp/callingCard/obj/Debug/netcoreapp2.0/callingCard.dll
+/Users/julienstark/Desktop/DevLearning/csharp/callingCard/obj/Debug/netcoreapp2.0/callingCard.pdb

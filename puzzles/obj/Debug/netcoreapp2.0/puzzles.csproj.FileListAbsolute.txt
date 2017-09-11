@@ -1,0 +1,10 @@
+/Users/julienstark/Desktop/DevLearning/csharp/puzzles/bin/Debug/netcoreapp2.0/puzzles.deps.json
+/Users/julienstark/Desktop/DevLearning/csharp/puzzles/bin/Debug/netcoreapp2.0/puzzles.runtimeconfig.json
+/Users/julienstark/Desktop/DevLearning/csharp/puzzles/bin/Debug/netcoreapp2.0/puzzles.runtimeconfig.dev.json
+/Users/julienstark/Desktop/DevLearning/csharp/puzzles/bin/Debug/netcoreapp2.0/puzzles.dll
+/Users/julienstark/Desktop/DevLearning/csharp/puzzles/bin/Debug/netcoreapp2.0/puzzles.pdb
+/Users/julienstark/Desktop/DevLearning/csharp/puzzles/obj/Debug/netcoreapp2.0/puzzles.csproj.CoreCompileInputs.cache
+/Users/julienstark/Desktop/DevLearning/csharp/puzzles/obj/Debug/netcoreapp2.0/puzzles.AssemblyInfoInputs.cache
+/Users/julienstark/Desktop/DevLearning/csharp/puzzles/obj/Debug/netcoreapp2.0/puzzles.AssemblyInfo.cs
+/Users/julienstark/Desktop/DevLearning/csharp/puzzles/obj/Debug/netcoreapp2.0/puzzles.dll
+/Users/julienstark/Desktop/DevLearning/csharp/puzzles/obj/Debug/netcoreapp2.0/puzzles.pdb

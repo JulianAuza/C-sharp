@@ -1,0 +1,10 @@
+/Users/julienstark/Desktop/DevLearning/csharp/timeDisp/bin/Debug/netcoreapp2.0/timeDisp.deps.json
+/Users/julienstark/Desktop/DevLearning/csharp/timeDisp/bin/Debug/netcoreapp2.0/timeDisp.runtimeconfig.json
+/Users/julienstark/Desktop/DevLearning/csharp/timeDisp/bin/Debug/netcoreapp2.0/timeDisp.runtimeconfig.dev.json
+/Users/julienstark/Desktop/DevLearning/csharp/timeDisp/bin/Debug/netcoreapp2.0/timeDisp.dll
+/Users/julienstark/Desktop/DevLearning/csharp/timeDisp/bin/Debug/netcoreapp2.0/timeDisp.pdb
+/Users/julienstark/Desktop/DevLearning/csharp/timeDisp/obj/Debug/netcoreapp2.0/timeDisp.csproj.CoreCompileInputs.cache
+/Users/julienstark/Desktop/DevLearning/csharp/timeDisp/obj/Debug/netcoreapp2.0/timeDisp.AssemblyInfoInputs.cache
+/Users/julienstark/Desktop/DevLearning/csharp/timeDisp/obj/Debug/netcoreapp2.0/timeDisp.AssemblyInfo.cs
+/Users/julienstark/Desktop/DevLearning/csharp/timeDisp/obj/Debug/netcoreapp2.0/timeDisp.dll
+/Users/julienstark/Desktop/DevLearning/csharp/timeDisp/obj/Debug/netcoreapp2.0/timeDisp.pdb
